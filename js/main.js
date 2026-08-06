@@ -1,4 +1,4 @@
-import * as THREE from "../libs/three.module.js";
+import * as THREE from "https://unpkg.com/three@0.179.1/build/three.module.js";
 import { GLTFLoader } from "../libs/GLTFLoader.js";
 
 console.log("OpenFlight Web");
